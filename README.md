@@ -1,2 +1,2 @@
 # cnn_for_opencv
-CNN for Computer Vision
+Python for Computer Vision & Image Recognition - Deep Learning Convolutional Neural Network (CNN) - Keras & TensorFlow 2
